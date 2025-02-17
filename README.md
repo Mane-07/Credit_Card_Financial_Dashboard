@@ -1,2 +1,2 @@
 # Credit_Crad_Financial_-Dashboard
-Poer Bi Dashboard 
+Power Bi Dashboard 
